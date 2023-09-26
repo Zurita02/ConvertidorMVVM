@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConverterMVVM</string>
+    <string name="convertidor_con_mvvm">Converter with con MVVM</string>
+    <string name="grados_c">°C</string>
+    <string name="grados_cel">celsius degrees</string>
+</resources>
